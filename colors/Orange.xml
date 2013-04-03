@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<colors>
+	<color name="Orange">FFff9900</color>
+	<color name="White">FFFFFFFF</color>
+	<color name="Gray">FFbebebe</color>
+	<color name="DarkGray">FF5b5b5b</color>
+	<color name="Shadow">65000000</color>
+</colors>
